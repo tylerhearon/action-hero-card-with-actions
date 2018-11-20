@@ -9,6 +9,22 @@ html {
   box-shadow: 0 .1em .4em rgba(0, 0, 0, .5);
 }
 
+header {
+  top: 11px;
+  right: 11px;
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+}
+
+menu {
+  padding: 0;
+  margin: 0;
+}
+
 .action-btn {
   background-color: transparent;
   border: 0;
